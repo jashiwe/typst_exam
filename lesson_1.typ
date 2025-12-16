@@ -4,7 +4,7 @@
 #show: setup.with()
 
 
-#chapter[学校卫生科]
+#chapter[生长发育]
 #title[学校卫生专业]
 
 #scoring-box(y: .5in)
